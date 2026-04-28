@@ -3,10 +3,10 @@ Team 13 - Gamers (Daniel & Kailer)
 ## What is Bossing Around?
 Bossing Around is a first person action roguelike where the player is in a cyberpunk themed world. The player is tasked to load in as an agent to fight an evil robot boss. Every time the robot is defeated, the player can salvage its parts to get stronger, but be warned, the robot will also continue to get stronger to defeat the agent. The goal of this game is to make it through as many loops as possible without dying.
 ## Controls
-WASD - Movement
-Space - Jump
-Left Click - Shoot
-Left Shift - Dash (Dashes in the direction of movement)
+WASD - Movement  
+Space - Jump  
+Left Click - Shoot  
+Left Shift - Dash (Dashes in the direction of movement)  
 ## Inspirations
 **Hyper Light Drifter** - We liked the pastel color schemes of bright colors.  
 **Vampire Survivors** - We liked the gameplay loop of becoming stronger to fight ever-stronger monsters.  
